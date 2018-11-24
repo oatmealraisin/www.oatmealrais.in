@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "self"
+title: "Me!"
 date: 2018-10-25 11:58
 comments: true
 sharing: true
 footer: true
 ---
-#your name
+#Ryan Murphy
 
-Talk about yourself!
+TODO

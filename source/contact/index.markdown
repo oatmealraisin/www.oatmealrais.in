@@ -9,6 +9,7 @@ footer: true
 
 #Contact
 
-* [Email](email.com)
-* [Github](github.com)
-* [Linkedin](https://www.linkedin.com)
+* [Email](mailto:ryan@murph.ai)
+* [Github](https://github.com/oatmealraisin)
+* [Linkedin](https://linkedin.com/in/oatmealraisin)
+* [Twitter](https://twitter.com/oatmeal_ai)
