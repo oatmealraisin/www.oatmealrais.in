@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "dale"
-date: 2018-10-23 12:03
+title: "projects"
+date: 2018-11-24 12:35
 comments: true
 sharing: true
 footer: true
 ---
-![Dale](/images/dale.jpg)
