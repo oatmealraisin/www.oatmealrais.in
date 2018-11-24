@@ -7,7 +7,7 @@
 
 	<meta name="author" content="Ryan Murphy">
 	
-	<meta name="description" content="2018-11-24T12:52:41-05:00 http://www.oatmealrais.in// Octopress 2018-11-24T11:45:36-05:00 http://www.oatmealrais.in//blog/2018/11/24/test Test Is &hellip;"> <meta name="keywords" content="">
+	<meta name="description" content=" 2018-11-24T13:54:21-05:00 http://www.oatmealrais.in// Octopress 2018-11-24T11:45:36-05:00 http://www.oatmealrais.in//blog/2018/11/24/test "> <meta name="keywords" content="">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -32,6 +32,10 @@
 		
 		
 		
+		<a class="twitter" href="http://twitter.com/oatmeal_ai" title="Twitter">Twitter</a>
+		
+		
+		<a class="github" href="https://github.com/oatmealraisin" title="GitHub">GitHub</a>
 		
 		
 		
@@ -69,7 +73,7 @@
   <title><![CDATA[Up down smile frown]]></title>
   <link href="http://www.oatmealrais.in//atom.xml" rel="self"/>
   <link href="http://www.oatmealrais.in//"/>
-  <updated>2018-11-24T12:52:41-05:00</updated>
+  <updated>2018-11-24T13:54:21-05:00</updated>
   <id>http://www.oatmealrais.in//</id>
   <author>
     <name><![CDATA[Ryan Murphy]]></name>
@@ -79,34 +83,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Test]]></title>
+    <title type="html"><![CDATA[C Coding Conventions: Opinions and Tools]]></title>
     <link href="http://www.oatmealrais.in//blog/2018/11/24/test/"/>
     <updated>2018-11-24T11:45:36-05:00</updated>
     <id>http://www.oatmealrais.in//blog/2018/11/24/test</id>
-    <content type="html"><![CDATA[<h1>Test</h1>
-
-<h2>Is this the real world?</h2>
-
-<hr />
-
-<ol>
-<li>Is the worst</li>
-<li>Is the best</li>
-</ol>
-
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="kn">import</span> <span class="nn">pandas</span> <span class="kn">as</span> <span class="nn">pd</span>
-</span><span class='line'>
-</span><span class='line'><span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">Dataframe</span><span class="p">(</span><span class="n">data</span><span class="o">=</span><span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">],</span> <span class="n">index</span><span class="o">=</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">])</span>
-</span><span class='line'><span class="n">df</span><span class="o">.</span><span class="n">describe</span><span class="p">()</span>
-</span><span class='line'><span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
-</span></code></pre></td></tr></table></div></figure>
-
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
